@@ -1,1 +1,1 @@
-location.href = 'https://rdrama.net/'+location.href;
+location.href = location.href.replace('rdrama2.github.io' + 'rdrama.net')
